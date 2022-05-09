@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "mccapesstutterfix",
+  "version": "${version}",
+  "name": "MCCapes Stuttering Fix",
+  "description": "",
+  "authors": [
+    "Cxlina"
+  ],
+  "contact": {
+    "website": "http://celinadev.de"
+  },
+  "license": "MIT",
+  "icon": "assets/mccapesstutterfix/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "de.cxlina.capefix.Main"
+    ]
+  },
+  "mixins": [
+    "mixins.json"
+  ],
+  "depends": {
+    "minecraftcapes": "*"
+  }
+}
