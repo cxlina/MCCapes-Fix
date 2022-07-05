@@ -1,4 +1,4 @@
-# MCCapes-Fix [1.18.2 - FabricMC]
+# MCCapes-Fix [1.18.2 -> 1.19) - FabricMC]
 Fixes the Stuttering in the [Minecraftcapes](https://minecraftcapes.net/) Mod. Requires the Original as well!
 
 The bug is **NOT** caused by the original mod, it's a pesky vanilla bug, which hasn't been fixed by Mojang yet (after over 10 years lmfao).
